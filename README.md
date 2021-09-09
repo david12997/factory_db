@@ -8,7 +8,7 @@
 
 - Conect to multiples SGBD ✨
 - SQL : Mysql, Postgres
-- Use the same codo to connect to different SGDB ✨
+- Use the same code to connect to different SGDB ✨
 - Code Tested ✨
 
 ## COMING SOON
