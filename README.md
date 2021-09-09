@@ -1,7 +1,7 @@
 # Factory DB
 ## _this repository implements a factory method for create databases conexion and crud_
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/1245px-Factory_1b.svg.png)
+[![N]|Solid](https://www.freeiconspng.com/uploads/factory-icon--vista-business-icons--softiconsm-28.png)
 
 
 ## Features
