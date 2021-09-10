@@ -4,13 +4,6 @@
 ![](https://www.freeiconspng.com/uploads/factory-icon--vista-business-icons--softiconsm-28.png)
 
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
 ## FEATURES
 
 - Conect to multiples SGBD ✨
